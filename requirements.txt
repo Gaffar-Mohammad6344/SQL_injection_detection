@@ -6,3 +6,4 @@ pandas
 scikit-learn
 tensorflow  # If using deep learning models
 xgboost
+lightgbm
