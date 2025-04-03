@@ -1,5 +1,8 @@
 streamlit
+matplotlib
+numpy
 joblib
 pandas
-numpy
-scikit-learn  # If you're using it for ML models
+scikit-learn
+tensorflow  # If using deep learning models
+
